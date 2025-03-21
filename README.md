@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm ascannel
 
-<!--
-**ascannel/ascannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 20 y/o student in UNN by day and night...
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://github.com/ascannel?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="https://github.com/ascannel?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+    <a href="https://github.com/ascannel?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/ascannel?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+    <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ascannel&custom_title=stats&hide_icons=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&title_color=5391FE&text_color=555">
+</p>
