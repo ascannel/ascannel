@@ -11,6 +11,6 @@
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 
-<p align="center">
+<p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ascannel&custom_title=stats&hide_icons=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&title_color=5391FE&text_color=555">
 </p>
