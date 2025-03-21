@@ -12,5 +12,5 @@
 </p>
 
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ascannel&custom_title=stats&hide_icons=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ascannel&custom_title=stats&hide_icons=true&hide=issues,stars&show=reviews,prs_merged&theme=transparent&hide_border=true&title_color=5391FE&text_color=999">
 </p>
