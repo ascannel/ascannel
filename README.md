@@ -7,7 +7,6 @@
     <a href="https://github.com/ascannel?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
     <a href="https://github.com/ascannel?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/ascannel?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
-    <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 
