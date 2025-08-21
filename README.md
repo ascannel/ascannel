@@ -1,6 +1,6 @@
 # Hello, I'm ascannel
 
-#### 20 y/o student in UNN by day and night...
+#### 21 y/o student in UNN by day and night...
 
 <p align="left">
     <a href="https://github.com/ascannel?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
