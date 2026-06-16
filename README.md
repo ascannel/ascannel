@@ -1,4 +1,4 @@
-# Hello, I'm ascannel
+# hello, i'm ascannel
 
 #### network engineer and linux enthusiast navigating corporate infrastructure by day, tinkering with hardware by night.
 
